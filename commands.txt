@@ -1,2 +1,7 @@
 git init
 git status
+git clone
+git cheeckout -b
+git log
+git log --onleline
+git remote -v
